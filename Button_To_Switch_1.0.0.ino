@@ -11,7 +11,7 @@
 // Button or sensor is connected to pin 8
 
 // Change Log:
-// Created 1.0.0 with improved serial monitor and flickering of light
+// Created 1.0.0 with improved serial monitor and removed flickering of light
 
 const int button = 8;
   // Adds the button or sensor for changing the state of the light

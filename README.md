@@ -1,5 +1,5 @@
 # Button_To_Switch
-Created By: Jmere36.
+Created By: Jmere36
 Purpose: To turn a button into a switch and turn on a light (light can be removed for other output)
 Instead of turning on when button is realeased it turns on when button is pressed
 Removes the flicker of holding the button as well

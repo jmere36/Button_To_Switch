@@ -20,3 +20,10 @@ Light is connected to pin 9
 
 Button or sensor is connected to pin 8
 
+
+
+# Change_Log
+Change Log:
+
+(1.0.0) Created 1.0.0 with improved serial monitor and flickering of light
+

@@ -25,5 +25,5 @@ Button or sensor is connected to pin 8
 # Change_Log
 Change Log:
 
-(1.0.0) Created 1.0.0 with improved serial monitor and flickering of light
+(1.0.0) Created 1.0.0 with improved serial monitor and removed flickering of light
 

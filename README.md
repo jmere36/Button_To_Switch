@@ -10,3 +10,4 @@ If there's any issues or questions please contact my email at: jmere36@icloud.co
 
 Light is connected to pin 9
 Button or sensor is connected to pin 8
+

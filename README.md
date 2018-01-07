@@ -14,6 +14,9 @@ You can also monitor what state the button is in on your pc, through the serial 
 If there's any issues or questions please contact my email at: jmere36@icloud.com
 
 
+# Download
+https://github.com/jmere36/Button_To_Switch/releases
+
 
 # Connections
 Light is connected to pin 9

@@ -1,4 +1,4 @@
-// Version: 1.0.1
+// Version: 1.0.2
 // Created By: Jmere36
 // Purpose: To turn a button into a switch and turn on a light (light can be removed for other output)
 // Instead of turning on when button is realeased it turns on when button is pressed
@@ -12,7 +12,7 @@
 // Button or sensor is connected to pin 8
 
 // Change Log:
-// (1.0.1) Changed file name to make it easier to use
+// (1.0.2) Changed file name to make it easier to use
 // (1.0.0) Created 1.0.0 with improved serial monitor and removed flickering of light
 
 const int button = 8;
